@@ -4,12 +4,11 @@
 
 ## Types of commands in Git
 
-*git status
-*git touch
-*git clone
-*git add .
-*git commit -m
-*git push
-*git pull
-*git --version
-go
+* git status
+* git touch
+* git clone
+* git add .
+* git commit -m
+*  git push
+* git pull
+* git --version
